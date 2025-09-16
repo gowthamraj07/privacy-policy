@@ -1,0 +1,218 @@
+# Privacy Policy for DriveSmart
+
+**Effective Date:** September 16, 2025  
+**Last Updated:** September 16, 2025
+
+## 1. Introduction
+
+Welcome to DriveSmart, a comprehensive driving education platform ("we," "us," "our," or "DriveSmart"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and web services (collectively, the "Service").
+
+By using our Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our policies and practices, do not use our Service.
+
+## 2. Information We Collect
+
+### 2.1 Personal Information
+
+We collect the following types of personal information:
+
+- **Account Information:** When you create an account, we collect your email address, name, and authentication credentials through Firebase Authentication
+
+### 2.2 Educational Data
+
+- **Learning Progress:** Your progress through chapters, lessons, and educational content
+- **Performance Data:** Quiz scores, completion rates, and assessment results
+- **Study Patterns:** Time spent on lessons, frequency of use, and learning preferences
+- **Bookmarks and Notes:** Content you save or annotate within the application
+
+### 2.3 Purchase and Payment Information
+
+- **Transaction Data:** Purchase history for chapters and subscription services
+- **Payment Information:** Processed securely through third-party payment providers (Google Pay, Apple Pay, PayPal, credit cards)
+- **Billing Information:** Associated with your payment method as processed by our payment partners
+
+### 2.4 Technical Information
+
+- **Device Information:** Device type, operating system, app version, and unique device identifiers
+- **Usage Analytics:** App interactions, feature usage, crash reports, and performance metrics
+- **Log Data:** Server logs including IP addresses, access times, and API requests
+- **Location Data:** General location (if enabled) for localized content and compliance
+
+### 2.5 Communications
+
+- **Support Interactions:** Communications when you contact our customer support
+- **Feedback:** Reviews, ratings, and feedback you provide about our Service
+
+## 3. How We Use Your Information
+
+We use your information for the following purposes:
+
+### 3.1 Service Provision
+- Provide and maintain the DriveSmart learning platform
+- Process user authentication and account management
+- Deliver educational content and track learning progress
+- Process payments and manage subscriptions
+
+### 3.2 Service Improvement
+- Analyze usage patterns to improve our educational content
+- Develop new features and enhance user experience
+- Conduct research to improve learning outcomes
+- Perform analytics and generate insights about platform usage
+
+### 3.3 Communication
+- Send important service announcements and updates
+- Provide customer support and respond to inquiries
+- Send educational tips and learning reminders (with consent)
+- Notify about new content and features
+
+### 3.4 Legal and Security
+- Comply with legal obligations and regulatory requirements
+- Protect against fraud, abuse, and security threats
+- Enforce our Terms of Service and other policies
+- Resolve disputes and investigate violations
+
+## 4. Information Sharing and Disclosure
+
+We do not sell your personal information. We may share your information in the following circumstances:
+
+### 4.1 Service Providers
+We work with trusted third-party service providers who assist in operating our Service:
+
+- **Firebase (Google):** Authentication, database, and analytics services
+- **Payment Processors:** Secure processing of payments (Google Pay, Apple Pay, PayPal, Stripe)
+- **Cloud Infrastructure:** Hosting and data storage services
+- **Analytics Services:** App performance and usage analytics
+
+### 4.2 Legal Requirements
+We may disclose your information when required by law or to:
+- Comply with legal processes, subpoenas, or court orders
+- Protect our rights, property, or safety
+- Investigate potential violations of our Terms of Service
+- Protect users from fraud or security threats
+
+### 4.3 Business Transfers
+In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity, subject to the same privacy protections.
+
+### 4.4 Consent
+We may share your information with your explicit consent for specific purposes not covered in this policy.
+
+## 5. Data Security
+
+We implement industry-standard security measures to protect your information:
+
+- **Encryption:** Data is encrypted in transit using HTTPS/TLS and at rest
+- **Authentication:** Secure user authentication through Firebase
+- **Access Controls:** Limited access to personal data on a need-to-know basis
+- **Regular Monitoring:** Continuous monitoring for security threats and vulnerabilities
+- **Secure Infrastructure:** Use of secure cloud infrastructure with regular security updates
+
+However, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
+
+## 6. Data Retention
+
+We retain your information for as long as necessary to provide our Service and fulfill the purposes outlined in this Privacy Policy:
+
+- **Account Information:** Retained while your account is active and for a reasonable period after deactivation
+- **Learning Progress:** Retained to maintain your educational history and progress
+- **Payment Data:** Retained as required for accounting, legal, and tax purposes
+- **Analytics Data:** May be retained in aggregated, anonymized form for service improvement
+
+You may request deletion of your account and associated data as described in the "Your Rights" section.
+
+## 7. Your Rights and Choices
+
+Depending on your location, you may have the following rights:
+
+### 7.1 Access and Portability
+- Request access to your personal information
+- Receive a copy of your data in a portable format
+
+### 7.2 Correction and Updates
+- Update your account information through the app settings
+- Request correction of inaccurate personal information
+
+### 7.3 Deletion
+- Delete your account and associated data
+- Request deletion of specific information (subject to legal requirements)
+
+### 7.4 Opt-Out Options
+- Unsubscribe from marketing communications
+- Disable push notifications through device settings
+- Opt out of certain analytics tracking
+
+### 7.5 Data Processing Limitations
+- Object to certain uses of your personal information
+- Request restriction of processing in specific circumstances
+
+To exercise these rights, contact us at privacy@drivesmart.com.
+
+## 8. Children's Privacy
+
+DriveSmart is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information promptly.
+
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+
+## 9. International Data Transfers
+
+Your information may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place for international transfers, including:
+
+- Standard Contractual Clauses approved by relevant authorities
+- Adequacy decisions by regulatory bodies
+- Other lawful transfer mechanisms
+
+## 10. Third-Party Services
+
+Our Service integrates with third-party services that have their own privacy policies:
+
+- **Firebase/Google:** [Google Privacy Policy](https://policies.google.com/privacy)
+- **Payment Processors:** Respective privacy policies of Google Pay, Apple Pay, PayPal, and other payment providers
+- **Analytics Services:** Privacy policies of integrated analytics platforms
+
+We encourage you to review these third-party privacy policies.
+
+## 11. California Privacy Rights (CCPA)
+
+If you are a California resident, you have additional rights under the California Consumer Privacy Act:
+
+- Right to know what personal information is collected
+- Right to delete personal information
+- Right to opt-out of the sale of personal information (we do not sell personal information)
+- Right to non-discrimination for exercising your privacy rights
+
+## 12. European Privacy Rights (GDPR)
+
+If you are in the European Union, you have rights under the General Data Protection Regulation, including those described in the "Your Rights and Choices" section above.
+
+Our lawful basis for processing your information includes:
+- **Contract:** Processing necessary for providing our Service
+- **Legitimate Interest:** Analytics, security, and service improvement
+- **Consent:** Marketing communications and optional features
+- **Legal Obligation:** Compliance with applicable laws
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we make changes, we will:
+
+- Post the updated policy in the app and on our website
+- Update the "Last Updated" date
+- Notify you of significant changes through the app or email
+- For material changes, obtain your consent where required by law
+
+Your continued use of the Service after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+## 14. Contact Information
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
+
+**Email:** privacy@drivesmart.com  
+**Support:** support@drivesmart.com  
+**Address:** [Your Company Address]
+
+For data protection inquiries in the EU, you may also contact your local data protection authority.
+
+## 15. Effective Date
+
+This Privacy Policy is effective as of the date stated at the top of this document and applies to all information collected by DriveSmart.
+
+---
+
+*This Privacy Policy was last updated on September 16, 2025.*
